@@ -11,4 +11,5 @@ int main(int argc, char *argv[])
     qDebug() << "Starting application...";
     w.show();
     return a.exec();
+    
 }
